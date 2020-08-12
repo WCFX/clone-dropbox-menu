@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<span style="color: #b642f5" >UI Clone </span> - <span style="color=0D2F81 "> Dropbox Homepage</span>
+UI Clone - Dropbox Homepage
 </h1>
 
 <p align="center">Responsive Dropbox Homepage UI clone for study purposes.</p>
