@@ -33,5 +33,5 @@ UI Clone - Dropbox Homepage
 
 ## Extra Information about that project.
 - That project i'ts a youtube video tutorial created by Guilherme Rodz in rocketseat channel
-- If you want know that project and more, please visit <a style="color: #e6f" href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">Rocketseat on Youtube</a>
+- If you want know that project and more, please visit <a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">Rocketseat on Youtube</a>
 
