@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { Container, Content } from './styles';
+
 interface Props {
   variant: 'blue' | 'beige' | 'white' | 'black';
   title1: string;
@@ -24,7 +26,18 @@ export const Section: React.FC<Props>= ({
   description3
  }) => {
   return(
-    <h1>Olá</h1>
+    <Container className={variant}>
+      <Content>
+        <h2>{title1}</h2>
+        <h2>{title2}</h2>
+      </Content>
+        <h3>{subtitle1}</h3>
+        <h3>{subtitle2}</h3>
+        <h3>{subtitle3}</h3>
+        <p>{description1}</p>
+        <p>{description2}</p>
+        <p>{description3}</p>
+    </Container>
   )
 };
 

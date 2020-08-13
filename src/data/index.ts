@@ -1,7 +1,7 @@
 export default [
   {
-    title1: 'Dropbox',
-    title2: 'Concentre-se apenas no trabalho importante',
+    title1: 'Concentre-se apenas no trabalho importante',
+    subtitle1: 'Dropbox',
     description1:
       'O Dropbox é o primeiro espaço de trabalho inteligente do mundo. Reunimos todo o conteúdo da sua equipe, e vocês podem usar as ferramentas que todos adoram. Além disso, ajudamos a diminuir a bagunça dos arquivos, realçando o que mais importa.',
   },
