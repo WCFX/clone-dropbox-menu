@@ -14,7 +14,6 @@ const MenuForm: React.FC = () => {
           <DropboxLogo />
           <span>Dropbox</span>
         </h1>
-        {/* ✕ chacter in video description */}
         <button className="action--close" onClick={handleToggle}>
           ✕
         </button>
