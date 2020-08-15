@@ -7,6 +7,13 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
+  a {
+    cursor: pointer;
+    text-decoration: none
+  }
+  ul {
+    list-style: none
+  }
   *, button, input {
     font-family: Roboto, sans-serif;
   }
